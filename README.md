@@ -19,7 +19,7 @@ Aplikasi ini bertujuan untuk memonitor data kebencanaan gunung berapi, termasuk 
 ### 1. Clone Repository
 Clone repository ini ke lokal:
 ```bash
-git clone https://github.com/username/repository-name.git
+git clone https://github.com/RendyRama/SisiKlien_UAS.git
 ```
 
 ### 2. Masuk ke Direktori Proyek
