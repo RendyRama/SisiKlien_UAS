@@ -24,7 +24,7 @@ git clone https://github.com/RendyRama/SisiKlien_UAS.git
 
 ### 2. Masuk ke Direktori Proyek
 ```bash
-cd repository-name
+cd my-react-app
 ```
 
 ### 3. Install Dependencies
@@ -39,7 +39,7 @@ Pastikan API back-end sudah berjalan di port `5000`. Back-end menggunakan Node.j
 ### 5. Menjalankan Aplikasi
 Jalankan aplikasi React:
 ```bash
-npm start
+npm run dev
 ```
 Aplikasi akan berjalan di `http://localhost:5173` secara default.
 
