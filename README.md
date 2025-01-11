@@ -43,7 +43,12 @@ npm run dev
 ```
 Aplikasi akan berjalan di `http://localhost:5173` secara default.
 
+## Hosting dan Deploy
+Aplikasi telah berhasil di-hosting menggunakan Netlify. Link aplikasi:
+[https://fantastic-baklava-d9c3e8.netlify.app/](https://fantastic-baklava-d9c3e8.netlify.app/)
+
+Namun, aplikasi ini saat ini hanya mendukung database lokal. Pastikan back-end dan database berjalan secara lokal untuk menggunakan semua fitur aplikasi.
+
 ## Catatan Penting
 - Pastikan MySQL sudah terkonfigurasi dengan benar sesuai dengan pengaturan di `server.js`.
 - Gunakan `npm install` setelah clone repository untuk memastikan semua dependency terpasang.
-
