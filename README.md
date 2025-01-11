@@ -43,15 +43,6 @@ npm start
 ```
 Aplikasi akan berjalan di `http://localhost:5173` secara default.
 
-## Teknologi yang Digunakan
-- **Front-End**: React.js, Redux Toolkit
-- **Back-End**: Node.js, Express.js
-- **Database**: MySQL
-- **Dependency Tambahan**:
-  - Axios
-  - React Router Dom
-  - SweetAlert2
-
 ## Catatan Penting
 - Pastikan MySQL sudah terkonfigurasi dengan benar sesuai dengan pengaturan di `server.js`.
 - Gunakan `npm install` setelah clone repository untuk memastikan semua dependency terpasang.
