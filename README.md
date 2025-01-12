@@ -4,6 +4,7 @@
 - **Nama**: Muhammad Rendy Ramadhan
 - **NIM**: A11.2022.14590
 - **Mata Kuliah**: Pemrograman Sisi Klien
+- - **Link Youtube**: https://youtu.be/RWhgOxksmrw
 
 ## Deskripsi Proyek
 Aplikasi ini bertujuan untuk memonitor data kebencanaan gunung berapi, termasuk status aktivitas, rekomendasi, dan laporan terkait. Aplikasi ini dibangun menggunakan React.js sebagai front-end dan Node.js + MySQL sebagai back-end.
